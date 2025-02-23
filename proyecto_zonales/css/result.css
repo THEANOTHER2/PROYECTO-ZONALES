@@ -1,0 +1,47 @@
+body{
+	font-family: 'Merienda', cursive;
+	background: url(../img/libros-4.jpg) no-repeat center center fixed;
+	background-size: cover;	
+}
+.form-container{
+	width: 500px;
+	background: #eed0a0;	
+	padding: 50px 50px;
+	border-radius: 10px;
+	margin-top: 60px;
+}
+h2{
+	font-weight: bold;
+	color: #f37717;
+	text-align: center;
+	margin: 0;
+	font-size: 38px;
+	margin-bottom: 20px;
+}
+hr{
+	margin: 35px 0;
+	background-color:#fff;
+}
+label{
+/*	color: #fff;*/
+}
+button{
+	margin: 5px 0 25px;
+}
+.btn{
+	background-color: #f37717; 
+	color: #fff;
+	font-size: 19px;
+	padding: 7px 14px;
+	border-radius: 25px;	
+}
+
+a{
+/*  text-decoration: none;*/
+  color: #f37717;  
+}
+
+a:hover{
+  text-decoration: none;
+  color: #f37717;  
+}

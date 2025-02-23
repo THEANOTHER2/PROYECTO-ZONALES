@@ -1,0 +1,40 @@
+body{
+	font-family: 'Merienda', cursive;
+	background: url(../img/cortina.jpg) no-repeat  center fixed;	
+	background-size: cover;
+}
+
+#contenedor{ 
+	margin: auto;
+	width:60%;
+	text-align: center;
+}
+#table{
+	background-color: #FFFFFF;
+	margin-top: 20px;
+	background: #ebba74;
+}
+th{
+	background-color: #e29525;
+	color: white;
+}
+.fil tr:hover{
+	background-color: #ea9822;
+}
+
+.cel td:hover{
+	background-color: #ea9822;
+}
+
+@media (max-width: 678px){
+	#contenedor{
+		width: 90%;
+	}
+}
+
+.button{
+  background-color: #e29525;
+  border-radius: 25px;
+  position: absolute;
+  margin: 10px;
+}
